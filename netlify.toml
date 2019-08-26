@@ -1,4 +1,3 @@
 [build]
-  publish = "public"
-  command = "node scripts/build"
+  command = "true"
   functions = "functions"
